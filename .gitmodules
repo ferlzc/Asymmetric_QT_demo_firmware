@@ -1,0 +1,4 @@
+[submodule "Colibri-iMX7-M4_FreeRTOS_1.2-20170407"]
+	path = Colibri-iMX7-M4_FreeRTOS_1.2-20170407
+    branch = Colibri-iMX7-M4_FreeRTOS_1.2-20170407
+	url = git://git.toradex.com/freertos-toradex.git

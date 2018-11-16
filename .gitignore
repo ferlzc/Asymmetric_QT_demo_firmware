@@ -1,0 +1,7 @@
+gcc-arm-none-eabi-4_9-2015q3
+control-freertos/armgcc/release/
+control-freertos/armgcc/Makefile
+control-freertos/armgcc/Control.map
+control-freertos/armgcc/CMakeFiles/
+control-freertos/armgcc/CMakeCache.txt
+.vscode/
